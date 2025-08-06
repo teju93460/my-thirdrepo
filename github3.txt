@@ -1,0 +1,5 @@
+This is a basic student portal application designed to help students and administrators manage academic information.
+- Student registration and login
+- Course enrollment and tracking
+- Grade viewing and progress reports
+- Admin dashboard for managing users and content
